@@ -1,0 +1,22 @@
+.container {
+  width: 264px;
+  height: 1000px;
+  background: #f3f4f6;
+  margin-top: 0;
+}
+.create {
+  width: Fixed (240px);
+  height: Hug (48px);
+  padding: 12px, 16px, 12px, 16px;
+  border-radius: 12px;
+  gap: 8px;
+  background: #2563eb;
+}
+.sidenav {
+  width: Hug (240px);
+  height: Hug (336px);
+  top: 104px;
+  left: 12px;
+  gap: 24px;
+  background-color: black;
+}
